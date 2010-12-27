@@ -16,6 +16,7 @@ BuildRequires: perl(Carp::Assert)
 BuildRequires: perl(ExtUtils::MakeMaker)
 BuildRequires: perl(Test::Builder::Module)
 BuildRequires: perl(Test::More)
+BuildRequires: perl(Try::Tiny)
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
